@@ -1,0 +1,8 @@
+# Database
+DATABASE_URL="postgresql://postgres:password@localhost:5432/upsc_evaluator"
+
+# n8n Configuration
+N8N_WEBHOOK_URL="http://localhost:5678/webhook/upsc-evaluation"
+
+# App Configuration
+NEXT_PUBLIC_APP_URL="http://localhost:3000"

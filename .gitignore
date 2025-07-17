@@ -1,0 +1,8 @@
+.next
+node_modules
+# Keep environment variables out of version control
+.env
+.env.local
+
+/app/generated/prisma
+uploads/

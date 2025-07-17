@@ -26,8 +26,7 @@ A comprehensive Next.js application for evaluating UPSC Mains answers using AI, 
 ### 1. Prerequisites
 - Node.js 18+
 - PostgreSQL database
-- n8n instance (optional for development)
-
+- 
 ### 2. Installation
 
 ```bash
